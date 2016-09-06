@@ -1,2 +1,2 @@
-# C-_DesignPattern
+# C++ DesignPattern
 Study and Training design pattern
